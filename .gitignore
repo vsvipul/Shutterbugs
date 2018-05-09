@@ -1,0 +1,3 @@
+# exclude flickr.key and OS X files
+flickr.key
+.DS_Store
