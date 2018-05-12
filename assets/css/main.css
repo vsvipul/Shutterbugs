@@ -157,8 +157,8 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 		}
 
 	strong, b {
-		font-weight: 400;
-		color: #555;
+		font-weight: 600;
+		color: #000;
 	}
 
 	em, i {
@@ -166,7 +166,7 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 	}
 
 	p {
-		font-weight: 100;
+		font-weight: 500;
 		margin: 0 0 1.25em 0;
 	}
 
@@ -313,6 +313,9 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
     	font-weight: 800;
     	text-align: center;
 	}
+
+/*
+	.modal { width: 75% !important ; height: 75% !important ; } */
 
 		input[type="submit"]:hover,
 		input[type="reset"]:hover,
