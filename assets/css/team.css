@@ -92,3 +92,14 @@
     margin-bottom: 30px;
   }
 }
+
+@media screen and (max-width: 1366px) {
+  .our-team .content .title {
+    font-size: 20px;
+  }
+
+  .our-team .content .post {
+    font-size: 15px
+  }
+
+}
