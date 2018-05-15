@@ -52,7 +52,7 @@
 }
 
 .our-team .content .post {
-  margin: 0 0 25px;
+  margin: 0 0 10px;
   display: block;
   font-size: 15px
 }
@@ -95,11 +95,11 @@
 
 @media screen and (max-width: 1366px) {
   .our-team .content .title {
-    font-size: 20px;
+    font-size: 17px;
   }
 
   .our-team .content .post {
-    font-size: 15px
+    font-size: 14px
   }
 
 }
